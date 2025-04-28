@@ -12,7 +12,7 @@
 </p>
 
 
-- 🔭 I’m currently working on building a live auction app on Swift.
+- 🔭 I’m currently working on building a live auction app.
 - 🌱 I’m currently learning about Agentic AI.
 - 👯 I’m looking to collaborate on interesting AI projects.
 - 🤔 I’m looking for help with reaching out to recruiters.
