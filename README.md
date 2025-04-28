@@ -17,7 +17,7 @@
 - 👯 I’m looking to collaborate on interesting AI projects.
 - 🤔 I’m looking for help with reaching out to recruiters.
 - 💬 Ask me about my interesting Major Project on Video Compression.
-- 📫 How to reach me: mithilparmar09@gmail.com
+- 📫 How to reach me: me@mithilparmar.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm a gamer(mostly Valorant). Add me: Mastivos#TFB
 
